@@ -40,9 +40,7 @@
 ---
 
 ### Решение
-[Bug Workflow.xml](/Bug Workflow.xml)
 
-[Simple workflow.xml](/Simple workflow.xml)
 
 
 1.сделано  
@@ -50,7 +48,10 @@
     Workflow для Bug  
     ![скриншот Workflow для Bug](./1_bug.png)  
     Workflow для остального
-    ![скриншот Workflow для остального](./1_other.png)  
+    ![скриншот Workflow для остального](./1_other.png)
+
+[Bug Workflow](/Bug Workflow.xml)
+[Simple workflow](/Simple workflow.xml)
     
 
     
