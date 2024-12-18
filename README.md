@@ -44,12 +44,12 @@
 1.сделано  
 2.ссылки  
     Workflow для Bug  
-    ![скриншот Workflow для Bug](1_bug.png)  
+    ![скриншот Workflow для Bug](./1_bug.png)  
     Workflow для остального
-    ![скриншот Workflow для остального](1_other.png)  
-    [Bug Workflow.xml](Bug Workflow.xml)  
-    [Simple workflow.xml](Simple workflow.xml)  
-    [Simple workflow.xml](Simple workflow.xml).
+    ![скриншот Workflow для остального](./1_other.png)  
+    [Bug Workflow.xml](./Bug Workflow.xml)  
+    [Simple workflow.xml](./Simple workflow.xml)  
+    
 
 
 ----------------
