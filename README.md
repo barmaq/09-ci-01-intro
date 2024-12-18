@@ -50,8 +50,8 @@
     Workflow для остального
     ![скриншот Workflow для остального](./1_other.png)
 
-[Bug Workflow](/Bug Workflow.xml)
-[Simple workflow](/Simple workflow.xml)
+[Bug Workflow](/Bug_Workflow.xml)  
+[Simple workflow](/Simple_workflow.xml)
     
 
     
